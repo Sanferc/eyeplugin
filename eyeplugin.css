@@ -1,0 +1,56 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+html{
+	background: #333;
+}
+
+body{
+	width: 70%;
+	font-family: "Verdana", "sans serif";
+	background: white;
+}
+
+h1 {
+	padding-top: 5%;
+	text-align: center;
+	color: green;
+	font-size: 3.5em;
+}
+
+main{
+	width: 100%;
+	float: left;
+	background: white;
+	height: 840px;
+}
+
+.bob ul li{
+	float: left;
+	position: relative;
+	width: 100%;
+
+}
+
+.bob img{
+	position: absolute;
+	margin-left: 28%;
+	margin-top: 10%;
+	border: 2em solid brown;
+}
+
+ul li{
+	list-style: none;
+}
+
+#git {
+	width: 90px;
+	height: 50px;
+	margin-left: 45%;
+	margin-top: 65%;
+}
+
+
+
