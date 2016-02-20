@@ -21,14 +21,14 @@ First: Add the following markup
 
 Second: Link the eyeplugin css stylesheet
 
-(<link rel="stylesheet" type="text/css" href="css/eyeplugin.css">)
+<link rel="stylesheet" type="text/css" href="css/eyeplugin.css">
 
 Third: Do not forget to add jQuery in the way that you prefer. For instance:
-(<script src="js/jquery.min.js"></script>)
+<script src="js/jquery.min.js"></script>
 
 Fourth: Add the eyeplugin javascript file at the bottom of the body:
 
-(<script src="js/eyeplugin.js"></script>)
+<script src="js/eyeplugin.js"></script>
 
 
 
